@@ -1,0 +1,21 @@
+# ignore git files
+.git/
+.gitignore
+.github/
+
+# ignore docker-compose files
+docker-compose.*.yml
+
+# ignore environment files
+.env*
+
+# ignore document files
+.docs/
+*.md
+
+# ignore editor settings
+.idea/
+.vscode/
+
+# ignore log files
+*.log
